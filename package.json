@@ -1,0 +1,16 @@
+{
+  "name": "backend-pix-dinamicas",
+  "version": "1.0.0",
+  "description": "Backend webhook PIX para 120 Dinamicas Sensoriais",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
